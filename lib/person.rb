@@ -1,2 +1,3 @@
 class Person
-  def 
+  def initialize(person_name)
+    
